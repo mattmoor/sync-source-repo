@@ -1,3 +1,3 @@
-# Will is sync?
+# Will it sync?
 
 Let's see if this file moves over.

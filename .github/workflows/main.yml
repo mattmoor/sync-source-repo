@@ -14,5 +14,5 @@ jobs:
       with:
         source_repo: "mattmoor/sync-source-repo"
         source_branch: "master"
-        destination_repo: "https://username:${{ github.token }}@github.com/${{ github.repository }}.git"
+        destination_repo: "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
         destination_branch: "master"
